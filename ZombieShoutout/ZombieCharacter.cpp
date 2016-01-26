@@ -412,7 +412,6 @@ void AZombieCharacter::Die()
 		//Stopping the AI logic
 		ZCon->UnPossess();
 
-		//TODO: Play death animation and alpha channel
 		AlphaChannelReduction();
 		//AlphaReductionTimeline.PlayFromStart();
 
