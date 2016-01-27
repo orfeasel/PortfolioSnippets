@@ -1,5 +1,5 @@
 # Caveman [RPG | Survival]
-# Unreal Engine 4.9.2 ( C++ | Blueprints Hybrid)
+# Unreal Engine 4.9.2 ( C++ )
 
 Caveman is my first attempt in C++, and I wanted the challenge, so I took up the RPG Genre. The tech demo itself took around a month to build, as I was learning a lot at the time around UE 4.
 
