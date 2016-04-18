@@ -4,3 +4,4 @@ This folder contains code I've used in my personal projects. Feel free to check 
 Projects so far:
 - Zombie Shootout | Roguelike Survival Shooter
 - Caveman | RPG
+- Scifi Shooter | 3rd Person Platformer
