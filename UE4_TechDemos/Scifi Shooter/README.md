@@ -3,6 +3,8 @@
 
 Scifi Shooter is a 3rd Person Platformer Shooter with roguelike elements. Your goal is to advance through the level and kill its Boss. You should upgrade your weapons by killing various minions first in order to face your ultimate challenge! Don’t forget to scout the level in order to unlock new weapons and get more ammo from various resources.
 
+https://www.youtube.com/watch?v=IT1GU-xF-tc
+
 This project was solo developed, thus I created all the mechanics and game systems. Scifi Shooter contains the following features, all in C++:
 
 - Animation Handling for all characters
