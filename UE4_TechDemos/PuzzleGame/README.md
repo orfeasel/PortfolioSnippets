@@ -2,7 +2,7 @@
 # Unreal Engine 4.13.2 ( C++ )
 
 Puzzle Game is a 1st person game that simulates escape rooms puzzles. You have to solve a puzzle in order to escape from the space you're currently locked in. 
-The goal of the programming design is to end up with a scalable puzzle game that relies on various components.
+The goal of the programming design was to end up with a scalable puzzle game that relies on various components.
 
 View a playable demo the game here: https://youtu.be/6PxVoMtMPmM
 
